@@ -3,7 +3,7 @@
 We want to delegate authentication to a third party. Let them check the credentials (email and password), and then tell us that the user is who they say they are.
 
 - [OmniAuth](https://github.com/intridea/omniauth)
-- [The Auth Hash](https://github.com/intridea/omniauth/wiki/Auth-Hash-Schema
+- [The Auth Hash](https://github.com/intridea/omniauth/wiki/Auth-Hash-Schema)
 - [The Sign In Flow](https://dev.twitter.com/web/sign-in/desktop-browser)
 - [Twitter OmniAuth Gem](https://github.com/arunagw/omniauth-twitter)
 - [Twitter App Sign Up](https://apps.twitter.com/)
