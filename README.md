@@ -17,3 +17,7 @@ Files to check out:
 - [users_router.js](./app/assets/javascripts/routers/users_router.js)
 - [header.js](./app/assets/javascripts/views/shared/header.js)
 - [sign_in.js](./app/assets/javascripts/views/shared/sign_in.js)
+
+### OmniAuth Integration
+
+View the [omniauth](https://github.com/jonathanlemuel/backbone-auth-demo/tree/omniauth) branch to see Twitter sign in integration.
