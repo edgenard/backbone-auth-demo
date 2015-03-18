@@ -5,5 +5,7 @@ Rails.application.routes.draw do
     resources :users, only: [:index, :show, :create]
   end
 
+  get "/auth/:provider/callback", to: "api/sessions#omniauth"
+
   root to: "pages#root"
 end
